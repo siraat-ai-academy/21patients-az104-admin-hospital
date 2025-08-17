@@ -1,4 +1,4 @@
-# 🌷💻 FROM LAYMAN TO AZURE ADMIN: AN **AZ-104 JOURNEY OF HEALING TECHNOLOGY** 💫🌈  
+# 🌷💻 From Layman to Azure Admin: An AZ-104 Journey of Healing Technology 💫🌈
 
 ---
 
