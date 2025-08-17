@@ -1,1 +1,0 @@
-This file explains the logical flow of healing for Patient #20: Created a SQL database, a records room built to hold the future stories of health..
