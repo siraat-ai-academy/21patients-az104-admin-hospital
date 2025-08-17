@@ -1,1 +1,0 @@
-This file explains the logical flow of healing for Patient #21: Created an Azure Firewall, the final guardian protecting the hospital with fire in his eyes..
