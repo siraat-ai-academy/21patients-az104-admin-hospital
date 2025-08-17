@@ -1,0 +1,1 @@
+This file lists the tools and resources used to treat Patient #21: Created an Azure Firewall, the final guardian protecting the hospital with fire in his eyes..
