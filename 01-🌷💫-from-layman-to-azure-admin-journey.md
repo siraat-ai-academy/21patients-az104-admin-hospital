@@ -57,12 +57,14 @@ With the inner voice of **Eks2** — the whisper behind the work.
 
 ---
 
+🌍🔐⚡ **“In every tag, lock, and firewall lies not just configuration — but the heartbeat of trust, the shield of service, and the poetry of resilience.”** 🌱💖🛡️  
+
+
+---
+
 ## 🌈 Hashtags of Healing  
 #AzureAdminHospital 🏥✨ #FromLaymanToAzureAdmin 🌱☁️  
 #HealingThroughTechnology 💖💻 #SoulfulLearning 🌸📘  
 #CareerHealingPath 🌟🛠️ #ClarityWithCompassion 🌼🕊️  
 #AZ104Journey 🚀📊 #AzureCertificationMagic ✨🔐  
 
----
-
-🌍🔐⚡ **“In every tag, lock, and firewall lies not just configuration — but the heartbeat of trust, the shield of service, and the poetry of resilience.”** 🌱💖🛡️  
